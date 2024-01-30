@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DloomPlz
 - 👀 I’m interested in Web3.
-- 🌱 I’m currently learning NestJS / Solidity.
 - 💞️ I’m looking to collaborate on full stack missions
 
 <!---
