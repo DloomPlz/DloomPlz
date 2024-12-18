@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DloomPlz
-- 👀 I’m interested in Web3.
 - 💞️ I’m looking to collaborate on full stack missions
 
 <!---
