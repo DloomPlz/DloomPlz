@@ -36,9 +36,3 @@
 ![WindSurf](https://img.shields.io/badge/WindSurf-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 🌟 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DloomPlz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DloomPlz&layout=compact&theme=radical)
